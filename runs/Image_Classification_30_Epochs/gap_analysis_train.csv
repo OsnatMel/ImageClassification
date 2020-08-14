@@ -1,0 +1,4 @@
+,type,path,true,pred,prob
+0,FP,Training_Data/Invalid/588.jpg,invalid,valid,-0.044976115226745605
+1,FP,Training_Data/Invalid/107.jpg,invalid,valid,-0.38769441843032837
+2,FP,Training_Data/Invalid/121.jpg,invalid,valid,-0.21034377813339233

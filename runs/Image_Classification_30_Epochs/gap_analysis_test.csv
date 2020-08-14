@@ -1,0 +1,9 @@
+,type,path,true,pred,prob
+0,FP,Training_Data/Invalid/18.png,invalid,valid,-1.7642974853515625e-05
+1,FN,Training_Data/Valid/424.jpg,valid,invalid,-0.00016689300537109375
+2,FP,Training_Data/Invalid/367.jpg,invalid,valid,-0.044976115226745605
+3,FP,Training_Data/Invalid/3158.jpg,invalid,valid,-0.010139226913452148
+4,FP,Training_Data/Invalid/140.jpg,invalid,valid,-0.000438690185546875
+5,FP,Training_Data/Invalid/715.jpg,invalid,valid,-0.0002617835998535156
+6,FN,Training_Data/Valid/3233.jpg,valid,invalid,-0.18117529153823853
+7,FN,Training_Data/Valid/200.jpg,valid,invalid,-0.46880868077278137
