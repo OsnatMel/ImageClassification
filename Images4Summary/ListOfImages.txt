@@ -1,0 +1,13 @@
+PrecisionRecallCurve_TestSet - plot of the precision recall curve, 98% recall with 90% precision
+
+PCA_3D_TestSet_ZeroShot - gif of test set and two other unseen type of images
+
+PCA_2D_TrainSet_Different_Num_Epochs - training set after different number of epochs
+
+PCA_2D_TestSet_And_ZeroShot - PCA to 2 dimensions of test set and two other unseen type of images
+
+PCA_2D_TestSet - PCA to 2 dimensions of test set
+
+Model_MobileNetV2_Customized - architecture of the network
+
+GMM_TestSet - plot GMM of test set
