@@ -50,3 +50,9 @@ The network ends FC layer classifying two labels.
  ![PCA_3D_TestSet_ZeroShot](https://github.com/OsnatMel/ImageClassification/blob/master/Images4Summary/PCA_3D_TestSet_ZeroShot.gif)
 
 
+#### Supplementary Data: <br /> 
+During the work on the solution, hyperparameters tuning was conducted (different learning rate, sizes of dropout, number of epochs and more).  
+Below is shown the difference of the separation on the training dataset - from 1 epoch to 20 and 30.  
+![PCA_2D_training_Epochs](https://github.com/OsnatMel/ImageClassification/blob/master/Images4Summary/PCA_2D_TrainSet_Different_Num_Epochs.png)
+
+
