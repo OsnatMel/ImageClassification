@@ -5,8 +5,8 @@ The project was done as internship during the Y-Data program in a Tel-Aviv based
 The goal was to have binary classification that meets the target function of maximum recall at 90% precision, while detecting anomalies among unseen images.  
 #### Note: 
   The data is unavailable due to confidentiality , therefore the files cannot be run.  
-  However, the notebook consists of running flow plus results of smaller dataset.  
-  The Resuls appearing below are based on the run on the whole dataset as presented at the end of the project.
+  However, the notebook consists of flow if run plus results of smaller dataset.  
+  The Results appearing below are based on the run of the whole dataset as presented at the end of the project.
 
 #### Explanation of the files: <br />
 
@@ -48,3 +48,5 @@ The network ends FC layer classifying two labels.
 
 - on 3d it's shown that the valid (green) images lie in a dense area versus the other different invalid images that lie surronding it.
  ![PCA_3D_TestSet_ZeroShot](https://github.com/OsnatMel/ImageClassification/blob/master/Images4Summary/PCA_3D_TestSet_ZeroShot.gif)
+
+
